@@ -1,0 +1,118 @@
+@font-face{
+	
+	font-family: 'Kanit', sans-serif;
+	src: url=("../hv-7/logo/fonts/Kanit.ttf"););
+	
+}
+.container{	
+	
+	color: #cb9cf2;
+	border-radius: 5px;
+	width: 980px;
+	border: 2px solid #af86d0;
+	height: 700px;
+	margin: 0 auto;
+}
+.header{
+	box-shadow: 5px 3px 3px #ca8aff;
+	background: linear-gradient(to right, #a081e4, #c09eff);
+	border-radius: 5px;
+	justify-content: space-evenly;
+	display: flex;	
+	align-content: center;
+	width: 900px;
+	height: 40px;
+	
+	margin: 15px 40px;
+}
+.header-text{
+	padding: 2px 0px;
+	background: linear-gradient(to right, #c09eff, #c09eff);
+	box-sizing: border-box;
+	margin: 7px 10px;	
+	height: 25px;
+	border-radius: 5px;
+	border: 2px solid #a081e4;
+}
+.text{
+	
+	font-weight: 600;
+	color: white;
+	font-family: 'Kanit', sans-serif;
+	margin: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.login{
+	padding: 2px 0px;
+	font-weight: bold;
+	font-family: 'Kanit', sans-serif;
+	color: white;
+	background-color: #a081e4;
+	margin: 7px 10px;
+	height: 25px;
+	border: 2px solid #c09eff;
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+.keyboards{
+	
+	width: 300px;
+	height: 124px;
+}
+.keyb{	
+	
+	font-weight: bold;
+	font-family: 'Kanit', sans-serif;
+	padding: 50px;
+	box-sizing: border-box;
+}
+.goods{
+	height: 150px;
+	width: 300px;	
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-row-gap: 50px;
+}
+.line {	
+	width: 750px;
+	height: 3px;
+	color: #cb9cf2;
+	margin: 250px 115px;	
+}
+.cont {
+	width: 750px;
+	display: flex;
+	justify-content: flex-start;
+	display: flex;
+	flex-wrap: wrap;
+}
+.lower-text {
+	width: 1000px;
+	height: 25px;
+	border: 2px solid #a081e4;
+	background: linear-gradient(to right, #c09eff, #c09eff);
+	border-radius: 5px;
+	width: 100px;
+	padding: 0px 8px;
+	box-sizing: border-box;
+	margin: 0px 5px;
+	
+}
+.text2{	
+	font-weight: 600;
+	color: white;
+	font-family: 'Kanit', sans-serif;			
+}
+.text3{	
+	font-weight: 600;
+	color: white;
+	font-family: 'Kanit', sans-serif;	
+	padding: 0px 6px;
+}
+.text4{	
+	font-weight: 600;
+	color: white;
+	font-family: 'Kanit', sans-serif;	
+	padding: 0px 10px;
+}
